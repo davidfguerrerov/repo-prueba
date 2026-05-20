@@ -1,0 +1,11 @@
+Mi primer repositorio
+
+Este es un archivo corto de prueba para mi repositorio en GitHub.
+
+Contenido
+- Archivo inicial
+- Prueba de subida
+- Repositorio creado correctamente
+
+Autor
+Johan Sebastian Escobar Arias
